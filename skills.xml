@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Skills-to-be-learned>
+    <Theory-of-software-testing>
+        SDLC, STLC, Test design
+    </Theory-of-software-testing>
+    <Test-documentation>
+        Checklist, Test Case, Test Plan, Bug report  
+    </Test-documentation>
+    <Client-server-architecture>
+        HTTP, API, Postman, DBMS, SQL
+    </Client-server-architecture>
+    <Terminal-Linux>
+        mkdir, pwd, touch, cd, cp, mv, rm, find, grep, cat, head, tail, vim
+    </Terminal-Linux>
+    <Version-Control-Systems>
+        Git, GitHub
+    </Version-Control-Systems>
+    <Mobile-testing>
+        Android guidelines, IOS guidelines, Charles, Fiddler, Android Studio, ADB
+    </Mobile-testing>
+    <Bug-Tracking-Systems>
+        Jira, Redmine, Trello
+    </Bug-Tracking-Systems>
+</Skills-to-be-learned>
