@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<about_myself>
+    <name>Ivan</name>
+    <surname>Sergeevich</surname>
+    <lastname>Nikitenko</lastname>
+    <age>35</age>
+    <pets>
+        <cats>3</cats>
+        <dogs>1</dogs>
+        <parrots>1</parrots>
+        <squirrels>2</squirrels>
+    </pets>
+    <desired_salary>5000</desired_salary>
+</about_myself>
