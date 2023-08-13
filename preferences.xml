@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<my_preferences>
-    <favorite_movie>"Revolver"</favorite_movie>
-    <favorite_series>"Offline"</favorite_series>
-    <favorite_food>"Sushi"</favorite_food>
-    <favorite_season>Spring</favorite_season>
-    <countryToVisit>
+<my-preferences>
+    <favorite-movie>"Revolver"</favorite-movie>
+    <favorite-series>"Offline"</favorite-series>
+    <favorite-food>"Sushi"</favorite-food>
+    <favorite-season>Spring</favorite-season>
+    <country-to-visit>
         <country_1>Germany</country_1>
         <country_2>Russia</country_2>
         <country_3>Russia</country_3>
         <country_4>Indonesia</country_4>
-    </countryToVisit>
-</my_preferences>
+    </country-to-visit>
+</my-preferences>

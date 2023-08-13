@@ -10,7 +10,7 @@
         HTTP, API, Postman, DBMS, SQL
     </Client-server-architecture>
     <Terminal-Linux>
-        mkdir, pwd, touch, cd, cp, mv, rm, find, grep, cat, head, tail, vim
+        mkdir, pwd, touch, cd, cp, mv, rm, find, grep, cat, head, tail, vim, less
     </Terminal-Linux>
     <Version-Control-Systems>
         Git, GitHub
