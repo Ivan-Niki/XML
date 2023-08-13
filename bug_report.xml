@@ -1,1 +1,77 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug-report>
+    <ID>
+        Identification number assigned to a specific bug
+    </ID>
+    <Summary>
+        Summarizes the essence of the bug in one sentence. Answers the questions «What?» Where?» Under what circumstances?
+    </Summary>
+    <Project>
+        Name of project, program or application in which a bug is identified
+    </Project>
+    <Version>
+        The exact version of the software containing the bug
+    </Version>
+    <Severity>
+        <definition>
+            The parameter that determines the effect of the bug on the program on a scale from S1 to S5
+        </definition>
+        <classification>
+            <S1-Blocker>
+                Blocking error. It makes impossible all subsequent work with the program. To resume work need to fix Blocker
+            </S1-Blocker>
+            <S2-Critical>
+                Critical error. Disrupts the main functionality. Bug appears constantly and makes it impossible to use the main functions of the program
+            </S2-Critical>
+            <S3-Major>
+                Significant bug. Complicates the work of the main function or makes it impossible to use additional functions.
+            </S3-Major>
+            <S4-Minor>
+                A minor bug. The functionality of the system affects relatively little, makes it difficult to use additional functions. There may be obvious ways around this bug.
+            </S4-Minor>
+            <S5-trivial>
+                Trivial bug. Does not affect the functionality of the project, but worsens the overall impression of working with the product.
+            </S5-trivial>
+        </classification>
+    </Severity>
+    <Priority>
+        <definition>
+            Parameter that determines the urgency of bug correction on a scale from P1 to P3
+        </definition>
+        <classification>
+            <P1-Top>
+                The highest priority. Assigned to emergency situations that have a very negative impact on the product or even the business of the company. Such bugs should be eliminated immediately.
+            </P1-Top>
+            <P2-High>
+                High priority. Assigned to bugs, which must be eliminated first.
+            </P2-High>
+            <P3-Normal>
+                The normal priority is assigned by default. These bugs are eliminated  secondarily.
+            </P3-Normal>
+            <P4-Low>
+                Low priority. Assigned to bugs that do not affect the functionality. Fix such bugs last if there are time and resources
+            </P4-Low>
+        </classification>
+    </Priority>
+    <Status>
+        What stage the bug is: open, in work, fixed, rejected, delayed, etc.
+    </Status>
+    <Author>
+        Name of employee who found the defect
+    </Author>
+    <Attachments>
+        Links, screenshots, videos and other materials that will help the developer better understand the nature of the problem
+    </Attachments>
+    <Assigned_to>
+        The developer that will fix the bug
+    </Assigned_to>
+    <Steps_to_reproduce>
+        The exact sequence of actions, which leads to reproduction of a bug
+    </Steps_to_reproduce>
+    <Actual_result>
+        What happens when you play the steps, how the program works now
+    </Actual_result>
+    <Expected_result>
+        How the program really should work
+    </Expected_result>
+</bug-report>
